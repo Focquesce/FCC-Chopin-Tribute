@@ -1,0 +1,14 @@
+#img-caption {
+  width: 216px;
+}
+
+#image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+}
+
+body {
+  background: linear-gradient(90deg, #6a5acd, #483d8b);
+}
